@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users/bpafoshizle/github/local/python-oauth2'
-let g:netrw_dirhist_2='/Users/bpafoshizle/github/local/fantasy-tracker/fantasy-tracker/conf'
-let g:netrw_dirhist_3='/usr/local/etc/openvpn'
-let g:netrw_dirhist_4='/Users/bpafoshizle/github/local/bpafoshizle.github.io/git.bpafoshizle.com'
-let g:netrw_dirhist_5='/Users/bpafoshizle/Applications/Team Fortress 2.app'
-let g:netrw_dirhist_6='/Users/bpafoshizle/eclipse/FPPScala/hello-project/.settings'
-let g:netrw_dirhist_7='/Users/bpafoshizle/.vim'
