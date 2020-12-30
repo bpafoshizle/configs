@@ -56,7 +56,7 @@ set hlsearch
 
 " Call pathogen
 " http://tammersaleh.com/posts/the-modern-vim-config-with-pathogen/
-call pathogen#infect()
-call pathogen#helptags()
+"call pathogen#infect()
+"call pathogen#helptags()
 
 colo Benokai
